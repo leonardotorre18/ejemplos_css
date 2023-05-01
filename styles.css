@@ -1,4 +1,4 @@
-/* Ejemplo 1, explicar la especificidad */
+/* Ejemplo 1, Selectores y Especificidad */
 
 /* p {
   color: brown;
@@ -15,7 +15,7 @@ p.parrafo.adicional {
 
 /* ----------------------------------------------------------------------- */
 
-/* Ejemplo 2 */
+/* Ejemplo 2 Color  */
 
 /* div p {
   color: red;
@@ -47,7 +47,7 @@ Medidas
 
 /* ----------------------------------------------------------------------- */
 
-/* Tercer Ejemplo */
+/* Tercer Ejemplo Background */
 /* .background {
   background-color: coral;
   background-image: linear-gradient(to left, rgb(57, 221, 207),rgb(48, 226, 108));
@@ -60,7 +60,7 @@ Medidas
 
 /* ----------------------------------------------------------------------- */
 
-/* Cuarto Ejemplo */
+/* Cuarto Ejemplo Text */
 /* h1, p {
   text-align: center;
   text-transform: uppercase;
@@ -94,7 +94,7 @@ p {
 
 /* ----------------------------------------------------------------------- */
 
-/* Quinto Ejemplo */
+/* Quinto Ejemplo Padding, Border, Margin, Outline */
 /* * {
   margin: 0;
   padding: 0;
@@ -120,7 +120,7 @@ h1 {
 
 /* ----------------------------------------------------------------------- */
 
-/* Sexto Ejemplo */
+/* Sexto Ejemplo Visibility y Opacity */
 /* body {
   background-color: rgb(26, 26, 26);
   color: #ebebeb;
@@ -150,7 +150,7 @@ div {
 
 /* ----------------------------------------------------------------------- */
 
-/* Septimo Ejemplo Ejemplo */
+/* Septimo Ejemplo BoxShadow */
 /* div {
   background-color: rgb(224, 71, 71);
   font-size: 3rem;
@@ -162,7 +162,7 @@ div {
 
 /* ----------------------------------------------------------------------- */
 
-/* Octavo Ejemplo */
+/* Octavo Ejemplo Width y Height */
 /* * {
   box-sizing: border-box;
 }
@@ -222,7 +222,7 @@ div {
 
 /* ----------------------------------------------------------------------- */
 
-/* Noveno Ejemplo */
+/* Noveno  BoxsizingBorderBox */
 /* * {
   box-sizing: border-box;
   margin: 0;
@@ -247,7 +247,7 @@ div {
 
 /* ----------------------------------------------------------------------- */
 
-/* Noveno Ejemplo */
+/* Noveno Ejemplo Transform */
 /* trucazos para centrar */
 /* * {
   box-sizing: border-box;
@@ -282,7 +282,7 @@ body {
 
 
 /* ----------------------------------------------------------------- */
-/* Decimo Ejemplo */
+/* Decimo Ejemplo PseudoClases */
 /* body {
   background-color: rgb(26, 26, 26);
 }
